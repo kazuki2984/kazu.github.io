@@ -1,4 +1,4 @@
-let sec = 500;          //スロットのリール回転速度(実行毎秒数)
+let sec = 50;          //スロットのリール回転速度(実行毎秒数)
 let stopReelFlag = [];  //スロットのリール停止フラグ
 let reelCounts = [];    //どの画像をどの位置にさせるか
 let slotFrameHeight;    //フレームの大きさ
